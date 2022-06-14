@@ -1,6 +1,6 @@
 
 
---- // Open source becasue i changed two lines lol
+--- // Open source becasue i changed two lines lol [forked script]
 local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
 local PlayerGui = Player:WaitForChild("PlayerGui")
